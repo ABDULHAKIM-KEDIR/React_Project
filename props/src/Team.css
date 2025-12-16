@@ -1,0 +1,17 @@
+.member-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  width: 220px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.member-photo {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.team-container {
+  display: flex;
+  gap: 16px;
+}
